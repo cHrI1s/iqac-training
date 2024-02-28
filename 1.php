@@ -1,1 +1,2 @@
-Hello friends am here
+<?php
+echo "Hello world";
