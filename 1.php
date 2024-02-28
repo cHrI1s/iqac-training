@@ -2,4 +2,7 @@
 echo "Hello my name is Tony and I am using gitc <br />";
 echo "hello this is a new text. <br />";
 
-echo "I have added my text too.";
+echo "I have added my text too.<br />";
+
+echo "new text have been added here";
+//the aabove line was edited around 8.30pm
