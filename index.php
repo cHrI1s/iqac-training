@@ -1,2 +1,2 @@
 <?php
-echo "hey";
+echo "hey this is mapla.";
